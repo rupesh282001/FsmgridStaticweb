@@ -1,0 +1,209 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot');
+  src:  url('../fonts/icomoon.eot') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../fonts/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-left-arrow1:before {
+  content: "\e900";
+}
+.icon-right-arrow1:before {
+  content: "\e901";
+}
+.icon-right-arrow:before {
+  content: "\e902";
+}
+.icon-round-arrow:before {
+  content: "\e903";
+}
+.icon-search:before {
+  content: "\e904";
+}
+.icon-facebook:before {
+  content: "\e905";
+}
+.icon-twitter:before {
+  content: "\e906";
+}
+.icon-youtube:before {
+  content: "\e907";
+}
+.icon-call:before {
+  content: "\e908";
+}
+.icon-playicon:before {
+  content: "\e909";
+}
+.icon-download:before {
+  content: "\e90a";
+}
+.icon-download1:before {
+  content: "\e90b";
+}
+.icon-linkedin:before {
+  content: "\e90c";
+}
+.icon-call1:before {
+  content: "\e90d";
+}
+.icon-fax:before {
+  content: "\e90e";
+}
+.icon-mail:before {
+  content: "\e90f";
+}
+.icon-continue-arrow:before {
+  content: "\e910";
+}
+.icon-close:before {
+  content: "\e911";
+}
+.icon-demo-arrow:before {
+  content: "\e912";
+}
+.icon-home:before {
+  content: "\e913";
+}
+.icon-manufact:before {
+  content: "\e914";
+}
+.icon-quote:before {
+  content: "\e915";
+}
+.icon-sidemenu:before {
+  content: "\e916";
+}
+.icon-solution1:before {
+  content: "\e917";
+}
+.icon-solution2:before {
+  content: "\e918";
+}
+.icon-solution3:before {
+  content: "\e919";
+}
+.icon-solution4:before {
+  content: "\e91a";
+}
+.icon-solution5:before {
+  content: "\e91b";
+}
+.icon-solution6:before {
+  content: "\e91c";
+}
+.icon-tele:before {
+  content: "\e91d";
+}
+.icon-service:before {
+  content: "\e91e";
+}
+.icon-gartner1:before {
+  content: "\e91f";
+}
+.icon-gartner2:before {
+  content: "\e920";
+}
+.icon-profile:before {
+  content: "\e921";
+}
+.icon-mail-round:before {
+  content: "\e922";
+}
+.icon-industries1:before {
+  content: "\e923";
+}
+.icon-industries2:before {
+  content: "\e924";
+}
+.icon-industries3:before {
+  content: "\e925";
+}
+.icon-industries4:before {
+  content: "\e926";
+}
+.icon-tick:before {
+  content: "\e927";
+}
+.icon-call2:before {
+  content: "\e928";
+}
+.icon-cloud:before {
+  content: "\e929";
+}
+.icon-setting:before {
+  content: "\e92a";
+}
+.icon-thumb:before {
+  content: "\e92b";
+}
+.icon-user2:before {
+  content: "\e92c";
+}
+.icon-email2:before {
+  content: "\e92d";
+}
+.icon-home1:before {
+  content: "\e92e";
+}
+.icon-sales:before {
+  content: "\e92f";
+}
+.icon-support:before {
+  content: "\e930";
+}
+.icon-download2:before {
+  content: "\e931";
+}
+.icon-telecom-icon1:before {
+  content: "\e932";
+}
+.icon-telecom-icon2:before {
+  content: "\e933";
+}
+.icon-demo-f:before {
+  content: "\e934";
+}
+.icon-ROI:before {
+  content: "\e935";
+}
+.icon-tick-round:before {
+  content: "\e936";
+}
+.icon-dashboard-menu:before {
+  content: "\e937";
+}
+.icon-industries5:before {
+  content: "\e938";
+}
+.icon-industries6:before {
+  content: "\e939";
+}
+.icon-instagram:before {
+  content: "\e93a";
+}
+.icon-date:before {
+  content: "\e93b";
+}
+.icon-location:before {
+  content: "\e93c";
+}
